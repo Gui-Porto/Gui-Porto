@@ -1,6 +1,8 @@
-# Guilherme Porto
+# Guilherme Porto <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" alt="wave">
 
-### Full Stack Developer · Backend · AI Engineer
+### Full Stack Developer · AI Engineer
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2F80ED&width=560&height=45&lines=Front-End+Developer;CEO+%26+Founder+da+Lexo;Dono+do+Lexo+%E2%80%94+SaaS+jur%C3%ADdico" alt="Typing SVG" />
 
 Construo produtos reais de ponta a ponta — do banco de dados à interface, passando por autenticação, billing e IA aplicada ao domínio.
 
