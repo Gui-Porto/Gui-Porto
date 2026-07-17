@@ -56,12 +56,6 @@ Ferramentas
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gui-Porto&show_icons=true&theme=dark&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gui-Porto&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## Outros projetos
 
 | Projeto | Descrição | Tecnologias |
