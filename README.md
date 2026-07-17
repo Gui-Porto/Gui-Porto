@@ -2,15 +2,15 @@
 
 ### Full Stack Developer · Backend · AI Engineer
 
-Construo produtos reais de ponta a ponta — do banco de dados a interface, passando por autenticacao, billing e IA aplicada ao dominio.
+Construo produtos reais de ponta a ponta — do banco de dados à interface, passando por autenticação, billing e IA aplicada ao domínio.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-gui--porto.github.io-2F80ED?style=flat-square)](https://gui-porto.github.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-guilherme--porto--ribeiro-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-porto-ribeiro) [![Email](https://img.shields.io/badge/Email-contato-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:profissional_gui@icloud.com)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-gui--porto.github.io-2F80ED?style=flat-square)](https://gui-porto.github.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-guilherme--porto--ribeiro-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-porto-ribeiro) [![Email](https://img.shields.io/badge/Email-contato-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:profissional_gui@icloud.com)
 
 ---
 
 ## Sobre mim (PT-BR)
 
-Sou desenvolvedor full stack em transicao de carreira, de Supervisor Administrativo para engenharia de software, construindo produtos reais, nao apenas exercicios de curso. Meu projeto principal, o Lexo, e um SaaS multi-tenant completo para escritorios de advocacia, com autenticacao propria, billing recorrente, IA aplicada ao dominio juridico e infraestrutura em producao. Gosto de entender o problema de negocio antes de escrever codigo, e de documentar decisoes tecnicas com o mesmo cuidado que dedico a arquitetura.
+Sou desenvolvedor full stack em transição de carreira, de Supervisor Administrativo para engenharia de software, construindo produtos reais, não apenas exercícios de curso. Meu projeto principal, o Lexo, é um SaaS multi-tenant completo para escritórios de advocacia, com autenticação própria, billing recorrente, IA aplicada ao domínio jurídico e infraestrutura em produção. Gosto de entender o problema de negócio antes de escrever código, e de documentar decisões técnicas com o mesmo cuidado que dedico à arquitetura.
 
 ## About me (EN)
 
@@ -20,19 +20,19 @@ I'm a full stack developer transitioning from an Administrative Supervisor role 
 
 ## Projeto em destaque
 
-### Lexo - o sistema operacional do escritorio de advocacia
+### Lexo — o sistema operacional do escritório de advocacia
 
-SaaS multi-tenant com IA juridica integrada: processos, prazos, financeiro, equipe e clientes em um so lugar. Construido e mantido sozinho, do design ao deploy em producao.
+SaaS multi-tenant com IA jurídica integrada: processos, prazos, financeiro, equipe e clientes em um só lugar. Construído e mantido sozinho, do design ao deploy em produção.
 
-- Multi-tenancy real com isolamento de dados por organizacao (sem IDOR)
-- Autenticacao propria (Auth.js) com OAuth, convite de equipe e 2FA (TOTP)
-- IA (Google Gemini) aplicada ao dominio: minutas, extracao de PDF, resumo e pesquisa jurisprudencial
+- Multi-tenancy real com isolamento de dados por organização (sem IDOR)
+- Autenticação própria (Auth.js) com OAuth, convite de equipe e 2FA (TOTP)
+- IA (Google Gemini) aplicada ao domínio: minutas, extração de PDF, resumo e pesquisa jurisprudencial
 - Billing recorrente via Stripe (Checkout, Customer Portal, webhooks)
 - Sync bidirecional com Google Calendar, cron jobs e log de auditoria
 
 Stack: Next.js 16, TypeScript, PostgreSQL (Prisma), Auth.js, Tailwind CSS, Stripe, Google Gemini
 
-Producao: https://lexo-six.vercel.app -- Repositorio: https://github.com/Gui-Porto/Lexo
+Produção: https://lexo-six.vercel.app -- Repositório: https://github.com/Gui-Porto/Lexo
 
 ---
 
@@ -64,10 +64,10 @@ Ferramentas
 
 ## Outros projetos
 
-| Projeto | Descricao | Tecnologias |
+| Projeto | Descrição | Tecnologias |
 |---|---|---|
-| Gui-Porto.github.io | Portfolio pessoal bilingue PT/EN | HTML5, CSS3, JavaScript, GSAP |
-| EnvioDeEmailAJAX | Formulario de contato assincrono | PHP, PHPMailer, jQuery/AJAX |
+| Gui-Porto.github.io | Portfólio pessoal bilíngue PT/EN | HTML5, CSS3, JavaScript, GSAP |
+| EnvioDeEmailAJAX | Formulário de contato assíncrono | PHP, PHPMailer, jQuery/AJAX |
 
 ---
 
@@ -75,4 +75,4 @@ Ferramentas
 
 - LinkedIn: https://linkedin.com/in/guilherme-porto-ribeiro
 - Email: profissional_gui@icloud.com
-- Portfolio: https://gui-porto.github.io/
+- Portfólio: https://gui-porto.github.io/
